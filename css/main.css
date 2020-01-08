@@ -49,7 +49,7 @@ img {vertical-align: middle;}
 
 .slideshow-container {
   max-width:100%;
-    height:500px;
+    height:650px;
   position: relative;
   margin: auto;
 }
@@ -94,11 +94,11 @@ img {vertical-align: middle;}
   background-color: #717171;
 }
 .contain-h{
-    max-height: 500px;
+    max-height: 650px;
 }
 .slidimg{
     width: 100%;
-    height: 500px;
+    height: 650px;
 }
 input[type=text],[type=email],[type=tel], select, textarea {
   width: 100%;
